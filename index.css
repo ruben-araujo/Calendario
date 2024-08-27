@@ -1,0 +1,17 @@
+*{
+    background-color: aquamarine;
+}
+
+.calendario{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    position: static;
+}
+
+.holder{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
